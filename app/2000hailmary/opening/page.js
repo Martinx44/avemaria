@@ -45,7 +45,7 @@ const OpeningPrayers = () => {
       <section className="space-y-4">
         <h2 className="text-xl font-semibold">'Through Him, With Him and In Him' - God is my Father</h2>
         <div className="relative">
-          <p className="overflow-hidden transition-all duration-300" id="himr" style={{ maxHeight: '4.6em' }}>My Father in Heaven, how sweet it is to know that You are my Father and that I am Your child! Especially when the skies of my soul are cloudy and my cross weighs more heavily, I feel the need to repeat to You: Father, I believe in Your love for me. Yes, I believe that You are a Father to me at every moment of my life and that I am
+          <p className="overflow-hidden transition-all duration-300" id="him" style={{ maxHeight: '4.6em' }}>My Father in Heaven, how sweet it is to know that You are my Father and that I am Your child! Especially when the skies of my soul are cloudy and my cross weighs more heavily, I feel the need to repeat to You: Father, I believe in Your love for me. Yes, I believe that You are a Father to me at every moment of my life and that I am
 Your child!
 I believe that You love me with an infinite love!
 I believe that You are watching over me night and day, and that not a hair falls

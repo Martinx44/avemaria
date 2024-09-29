@@ -43,27 +43,27 @@ const Page = () => {
           <div className="grid grid-col items-center justify-center p-2 bg-slate-100/90 shadow-lg">
           <ol className='flex justify-around mt-3 text-blue-400 ring-1 rounded-sm'>
                 <li>
-                  <Link href="/2000hailmary/about" className="block w-full h-full">
+                  <Link href="/2000hailmary/about" className="block w-full h-full mx-1">
                     About prayer
                   </Link>
                 </li>
                 <li>
-                  <Link href="/2000hailmary/opening" className="block w-full h-full">
+                  <Link href="/2000hailmary/opening" className="block w-full h-full mx-1">
                       Opening prayer
                   </Link>
                 </li>
                 <li>
-                  <Link href="/2000hailmary/divinemercy" className="block w-full h-full">
+                  <Link href="/2000hailmary/divinemercy" className="block w-full h-full mx-1">
                     3:00
                   </Link>
                 </li>
                 <li>
-                  <Link href="/2000hailmary/hymn" className="block w-full h-full">
+                  <Link href="/2000hailmary/hymn" className="block w-full h-full mx-1">
                     hymn
                   </Link>
                 </li>
                 <li>
-                  <Link href="/2000hailmary/closing" className="block w-full h-full">
+                  <Link href="/2000hailmary/closing" className="block w-full h-full mx-1">
                     closing prayer
                   </Link>
                 </li>
