@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
 import Image from "next/image";
+
 import NextButton from '@/components/NextButton';
 import PrevButton from '@/components/PrevButton';
 import backgroundImage from "@/assets/maria.png";
